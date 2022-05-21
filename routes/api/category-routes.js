@@ -90,7 +90,7 @@ router.put('/:id', async (req, res) =>
 
 router.delete('/:id', async (req, res) =>
 {
-  // delete a category by its `id` value
+  // delete on tag by its `category` value try
   try
   {
     const deleteCategory = await Category.destroy({
@@ -108,7 +108,6 @@ router.delete('/:id', async (req, res) =>
   {
     res.status(500).json(err);
   }
-
 });
 
 module.exports = router;

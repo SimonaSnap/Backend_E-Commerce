@@ -23,9 +23,9 @@ Link to the video in google drive: https://drive.google.com/file/d/1xf961FVPUjLJ
 
 Link to the video in google drive: https://drive.google.com/file/d/1K9I1o-Cxj80Dx0zQEVt31gO517BaX6NQ/view?usp=sharing 
 
-![A gif of the deployed application](./assets/Untitled_%20Apr%2022%2C%202022%203_36%20PM.gif "A video of the POST request options in insomia, for categories, products and tags")
+![A gif of the deployed application](./assets/POST%20routes.gif "A video of the POST request options in insomia, for categories, products and tags")
 
-Link to the video in google drive: https://drive.google.com/file/d/1K9I1o-Cxj80Dx0zQEVt31gO517BaX6NQ/view?usp=sharing 
+Link to the video in google drive: https://drive.google.com/file/d/17aTpiP3Zr85GQEQqg3Jsq0sGQf8Y8YS6/view?usp=sharing  
 
     
 ## Contribution
