@@ -19,9 +19,9 @@ Once instillation is complete, the user would then run "npm run start" to start 
 
 Link to the video in google drive: https://drive.google.com/file/d/1xf961FVPUjLJBvdiukoKtD3SkjW4k0F0/view?usp=sharing 
 
-![A gif of the deployed application](./assets/Untitled_%20Apr%2022%2C%202022%203_36%20PM.gif "A video of the PUT and DELETE request options in insomia, for categories, products and tags")
+![A gif of the deployed application](./assets/DELETE%20and%20PUT.gif "A video of the PUT and DELETE request options in insomia, for categories, products and tags")
 
-Link to the video in google drive: https://drive.google.com/file/d/1K9I1o-Cxj80Dx0zQEVt31gO517BaX6NQ/view?usp=sharing 
+Link to the video in google drive: https://drive.google.com/file/d/1M38UjDuap2CUPmiR9sivDN73irDPVsfv/view?usp=sharing
 
 ![A gif of the deployed application](./assets/POST%20routes.gif "A video of the POST request options in insomia, for categories, products and tags")
 
