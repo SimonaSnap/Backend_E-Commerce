@@ -52,4 +52,7 @@ Product.init(
   }
 );
 
+//validations check to see that inputs are correct.
+//category id references the category model
+
 module.exports = Product;

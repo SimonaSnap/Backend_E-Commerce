@@ -16,3 +16,5 @@ sequelize.sync({ force: false }).then(() =>
 {
   app.listen(PORT, () => console.log(`App listening on port ${PORT}!`));
 });
+//the launch point of the application. connection everything to the port
+//in addition, force: false means that when we sync to sequalize and the database, we aren't overwriting anything that is already written (like seed data)

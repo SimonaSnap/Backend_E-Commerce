@@ -27,3 +27,4 @@ Category.init(
 );
 
 module.exports = Category;
+//this model has no foreign keys. it is referenced by products.

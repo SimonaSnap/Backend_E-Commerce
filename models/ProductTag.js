@@ -37,3 +37,5 @@ ProductTag.init(
 );
 
 module.exports = ProductTag;
+//this is the junction table, stating the the tag model references the products id,
+//as well as the product model references the tag id 

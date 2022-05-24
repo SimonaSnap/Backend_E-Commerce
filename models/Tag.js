@@ -26,3 +26,5 @@ Tag.init(
 );
 
 module.exports = Tag;
+//this is a simple model setting up the tag
+//its references will be set up in the junction table like the product model
